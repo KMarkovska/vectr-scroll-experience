@@ -9,6 +9,11 @@ to page scroll.
 
 [vectr-scroll-experience.netlify.app](https://vectr-scroll-experience.netlify.app)
 
+## Website capture
+
+<img width="1882" height="934" alt="image" src="https://github.com/user-attachments/assets/001f2628-56cd-444a-a366-b69ce6dec021" />
+
+
 ## Built With
 
 - React
