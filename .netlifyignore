@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.npm-cache/
+.netlify/
+.netlify-source/
+.scaffold/
+reference-frames/
+qa-implementation-*.png
+design-qa.md
+vite.*.log
